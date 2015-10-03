@@ -92,4 +92,4 @@ public class AnimatedFeature extends BasicFeature implements AnimatedProtocol
   public BasicState status() {
     return state;
   }
-} // AnimatedFeature
+} // Animated Feature
